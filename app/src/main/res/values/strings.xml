@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MailProject</string>
+    <string name="reply">Reply</string>
+    <string name="forward">Forward</string>
+    <string name="mymail">MyMail</string>
+</resources>
